@@ -4,7 +4,7 @@
 
 * 1 [Introducción a los Sistemas de Información Geográfica](http://prezi.com/uwhowkeqtbgi/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 * 2 [Introducción a QGIS](http://prezi.com/g6tgw3mpbecg/?utm_campaign=share&utm_medium=copy&rc=ex0share).
-* 3 [Datos e Información](http://prezi.com/mju2roq_ebtw/?utm_campaign=share&utm_medium=copy&rc=ex0share).
+* 3 [Datos e Información. Simbología](http://prezi.com/mju2roq_ebtw/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 * 4 [Fundamentos geodésicos y cartográficos](http://prezi.com/dly7amsks1kc/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 5 [Técnicas para la obtención de información geográfica](http://prezi.com/xriqu35ms4_f/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 6 [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share).
