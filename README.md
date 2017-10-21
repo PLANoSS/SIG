@@ -1,7 +1,5 @@
 # CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA
 
-# PARTE I
-
 ## Presentaciones
 
 * 1 [Introducción a los Sistemas de Información Geográfica](http://prezi.com/uwhowkeqtbgi/?utm_campaign=share&utm_medium=copy&rc=ex0share).
@@ -25,12 +23,9 @@
 * 9 [Trabajo con tablas](https://www.dropbox.com/s/rh4d7evgo6b1p15/EJERCICIO%201.9.rar?dl=0)
 * 10 [Presentación de datos](https://www.dropbox.com/s/6smov1d0arg6f9b/EJERCICIO%201.10.rar?dl=0)
 
-## Evaluación SIG1
-
-* [Evaluación módulo 1](https://goo.gl/forms/ei8NA2VfCC7OnppT2)
 
 ## Trabajo
-### Parte 1
+### Opción 1
 La parte 1 del trabajo consiste en generar un mapa a partir de un archivo analógico, para ello debe realizar los siguientes pasos:
 1. Buscar un plano analógico (en papel) de su ciudad.
 2. Georreferenciar el plano
@@ -44,12 +39,19 @@ Como entregables usted deberá entregar en un solo archivo comprimido con su Ape
 3. Capas creadas y editadas
 4. Mapa final en jpg ó pdf
 
-### Parte 2.
-Deberá realizar un estudio de mercado de valores de suelo (30 predios sin construcción), en el que recopilará la información que se adjunta en la siguiente presentación
-* 7 [Aspectos a considerar para la parte 2 del trabajo](http://prezi.com/ldksynpm_gnj/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+### Opción 2.
+1. Realizar un levantamiento de datos de interés utilizando para ello la herramienta kobo toolbox.
+2. Generar a partir de allí un archivo shapefile
+3. añadir la capa de OSM
+4. Aplicar simbología y etiquetado si hiciera falta
+5. Realizar una composición final de mapa.
 
+Como entregables usted deberá entregar en un solo archivo comprimido con su Apellido_Nombre.rar, los siguientes elementos:
+1. Base de datos descargada de kobo toolbox
+2. Archivo shape generado
+4. Mapa final en jpg ó pdf
 
-Deberá incorporarse el shape generado en la carpeta comprimida de la primera parte y enviarse al link dando click [aquí](https://www.dropbox.com/request/GDW66VDzS0IMerfO97Ct)
+Deberá incorporarse el shape generado en la carpeta comprimida de la primera parte y enviarse al link dando click [aquí](https://www.dropbox.com/request/SVn59HNzuVKBfOA7QKMR)
 
 ## Información adicional
 
@@ -57,3 +59,7 @@ Deberá incorporarse el shape generado en la carpeta comprimida de la primera pa
 * [QGIS Training Manual](https://www.dropbox.com/s/kbm75k8lup3pwa7/QGIS-2.8-QGISTrainingManual-es%20-%20copia.pdf?dl=0)
 * [Datos para ejercicios de QGIS Training Manual](https://www.dropbox.com/s/xipps9frd7s5o2q/training_manual_exercise_data.zip?dl=0)
 * [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
+
+## Evaluación SIG1
+
+* [Evaluación módulo 1](https://goo.gl/forms/ei8NA2VfCC7OnppT2)
