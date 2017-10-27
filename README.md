@@ -18,6 +18,7 @@
 * 4 [Etiquetado avanzado](https://www.dropbox.com/s/fmhdh0rsyyirz3q/EJERCICIO%201.4.rar?dl=0)
 * 5 [Sistemas de coordenadas y georreferenciación](https://www.dropbox.com/s/5uabsw65p05kflq/EJERCICIO%201.5.rar?dl=0)
 * 6 [Fuentes de datos geográficos](https://www.dropbox.com/s/gs02kepx1zev06l/EJERCICIO%201.6.rar?dl=0)
+* 6.1 [Práctica de levantamiento de datos con kobo toolbox](https://www.dropbox.com/s/rpzodqbr6bmvqqt/Pr%C3%A1ctica%20de%20Kobo.pdf?dl=0)
 * 7 [Trabajo con datos espaciales](https://www.dropbox.com/s/ck05or5mjfdp1jg/EJERCICIO%201.7.rar?dl=0)
 * 8 [Edición de datos](https://www.dropbox.com/s/znqxyhlt7hkivln/EJERCICIO%201.8.rar?dl=0)
 * 9 [Trabajo con tablas](https://www.dropbox.com/s/rh4d7evgo6b1p15/EJERCICIO%201.9.rar?dl=0)
